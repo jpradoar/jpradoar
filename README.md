@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jpradoar/jpradoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
+ 
+<p align="center">
+<br><img src="https://skillicons.dev/icons?i=raspberrypi,linux,arduino" />
+<br><img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,python,bash,rabbitmq,githubactions,grafana,prometheus" /> 
+<br>
+<br> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jpradoar&border_radius=30&hide_border=true&theme=swift"/>
+<br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jpradoar&border_radius=30&hide_border=true&theme=swift"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jpradoar&border_radius=30&hide_border=true&theme=swift"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
